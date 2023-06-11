@@ -65,3 +65,7 @@ body{
     text-align: center;
     font-size: 15px;
 }
+
+.button input{
+    border-radius: 5px;
+}
