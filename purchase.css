@@ -1,0 +1,105 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+
+    padding: 0px;
+    margin: 0px;
+    background: url(art.jpg);
+    background-size: cover;
+}
+
+.nav{
+    background-color: rgb(35, 35, 70);
+    color: black;   
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.nav ul {
+    display: flex;
+
+}
+
+.nav ul li{
+    list-style: none;
+     padding-left: 0px;
+    margin-left: 190px; 
+    
+}
+
+.nav ul li a{
+    text-decoration: none;
+    /* padding-left: 50px; */
+    color: aliceblue;
+    font-family: "GFS Neohellenic Regular";
+    font-size: medium;
+}
+
+.nav ul li a:hover{
+      text-decoration: underline;
+}
+
+.icon{
+    position: absolute;
+    color: white;
+    left: 1280px;
+}
+
+.art img{
+    
+    width: 220px;
+    position: absolute;
+    top: 40%;
+    left: 27%;
+}
+
+.art2 img{
+    
+    width: 300px;
+    top: 20%;
+    position: absolute;
+    /* height: 200px; */
+    left: 2%;
+}
+.art3 img{
+    
+    width: 300px;
+    position: absolute;
+    top: 60%;
+    height: 200px;
+    left: 1%;
+}
+
+.art4 img{
+    
+    width: 300px;
+  height: 400px;
+   position: absolute;
+    left: 50%;
+    top: 40%;
+}
+
+.art5 img{
+   
+    width: 300px;
+    position: absolute;
+    top: 20%;
+    height: 250px;
+    right: 13px;
+}
+
+.art6 img{
+    
+    
+    width: 300px;
+    position: absolute;
+    top: 60%;
+    height: 250px;
+    right: 10px;
+}
+
+
